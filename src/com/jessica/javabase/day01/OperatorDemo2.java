@@ -11,9 +11,9 @@ public class OperatorDemo2 {
         int ge = num % 10;
         int shi = num /10%10;
         int bai = num /100;
-        System.out.println(ge);
-        System.out.println(shi);
-        System.out.println(bai);
+        System.out.println("个位是：" + ge);
+        System.out.println("十位是：" + shi);
+        System.out.println("百位是：" + bai);
 
     }
 
