@@ -5,7 +5,7 @@ public class Text15 {
         int sum=0;
         for (int a = 1; a <= 5; a++){
             sum =sum + a;
-            System.out.println(sum);
         }
+        System.out.println(sum);
     }
 }
